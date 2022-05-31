@@ -1,0 +1,11 @@
+#logOut {
+    background-color: rgb(235, 227, 227);
+    color: black;
+    border: 2px solid black;
+    padding: 2px 30px;
+    position:relative; 
+    left:-400px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
